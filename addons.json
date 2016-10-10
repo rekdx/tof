@@ -1,0 +1,264 @@
+[
+	{
+		"name" : "Better Quest",
+		"file" : "betterquest",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Adds a checkbox in the quest window to display all eligible quests.",
+		"tags" : [
+			"ui",
+			"quest"
+		]
+	},
+	{
+		"name" : "Boss Tracker",
+		"file" : "bosstracker",
+		"extension" : "ipf",
+		"releaseTag" : "bosstracker",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "💀",
+		"description" : "Can't find a boss because of the pro players that monopolize them 24/7?! All you need is this boss tracker! Shows a circle on the map where a boss is and alerts you in chat when one is alive. Doesn't work for gimmick bosses such as templeshooter, archon, canceril, etc.",
+		"tags" : [
+			"boss",
+			"ui"
+		]
+	},
+	{
+		"name" : "Channel Surfer",
+		"file" : "channelsurfer",
+		"extension" : "ipf",
+		"releaseTag" : "otrava",
+		"fileVersion" : "v1.0.1",
+		"unicode" : "⛄",
+		"description" : "Removes the confirmation box when changing channels, displays more channels in the dropdown box, and adds buttons to change channels easily.",
+		"tags" : [
+			"channel"
+		]
+	},
+	{
+		"name" : "Combat Timer",
+		"file" : "combattimer",
+		"extension" : "ipf",
+		"releaseTag" : "corsair",
+		"fileVersion" : "v1.0.4",
+		"unicode" : "⛄",
+		"description" : "Don't use this as it causes disconnects on channel/map change. Not a way around it currently. Uninstall it! Displays a draggable widget that displays whether you're in combat or not and the time until you're out.",
+		"tags" : [
+			"combat",
+			"timer"
+		]
+	},
+	{
+		"name" : "Developer Console",
+		"file" : "developerconsole",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "A developer console to execute commands easily. Executes lua commands that you type in, creates a print() method that outputs text to the console, and adds a UI debug button. Open it with /dev.",
+		"tags" : [
+			"dev",
+			"developer",
+			"console",
+			"lua",
+			"ui"
+		]
+	},
+	{
+		"name" : "Experience Card Calculator",
+		"file" : "expcardcalculator",
+		"extension" : "ipf",
+		"releaseTag" : "otrava",
+		"fileVersion" : "v1.1.0",
+		"unicode" : "⛄",
+		"description" : "Automatically calculates your card level based on the experience cards you have in your inventory.",
+		"tags" : [
+			"experience",
+			"card"
+		]
+	},
+	{
+		"name" : "Experience Viewer",
+		"file" : "expviewer",
+		"extension" : "ipf",
+		"fileVersion" : "v1.2.0",
+		"releaseTag" : "cheminissword",
+		"unicode" : "⛄",
+		"description" : "Displays various experience values such as current experience, required experience, current percent, experience gained on last kill, kills til next level, experience per hour, and estimated time until level up.",
+		"tags" : [
+			"experience",
+			"ui"
+		]
+	},
+	{
+		"name" : "Gimme Cards",
+		"file" : "gimmecards",
+		"extension" : "ipf",
+		"releaseTag" : "corsair",
+		"fileVersion" : "v1.1.0",
+		"unicode" : "⛄",
+		"description" : "imc sucks. Most incompetent company ever. Remove cards with '/removecard n' or '/unequipcard n' where n is the slot number. Use `/removecardtp` or `/unequipcardtp` to spend 5 TP to remove it with no experience loss. Good for those pesky hidden cards!",
+		"tags" : [
+			"cards",
+			"ui"
+		]
+	},
+	{
+		"name" : "Guildmates",
+		"file" : "guildmates",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Enhances the guild window by displaying a player's level, showing their character name, and adding more context menu options such as party request and character info.",
+		"tags" : [
+			"guild"
+		]
+	},
+	{
+		"name" : "Hide Maxed Attributes",
+		"file" : "hidemaxedattributes",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Hides attributes that are already max level in the attribute trainer window.",
+		"tags" : [
+			"ui",
+			"skills",
+			"attributes"
+		]
+	},
+	{
+	"name" : "Link Item",
+	"file" : "linkitem",
+	"extension" : "ipf",
+	"releaseTag" : "corsair",
+	"fileVersion" : "v1.1.0",
+	"unicode" : "⛄",
+	"description" : "Adds a slash command to link an item in chat! /linkitem Hat_628087 s This $item is a hat! /li also works.",
+	"tags" : [
+			"item",
+			"link",
+			"chat"
+		]
+	},
+	{
+		"name" : "Map Fog Viewer",
+		"file" : "mapfogviewer",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Displays the fog on the map as red tiles instead of the hard to see default fog. Makes exploration really easy!",
+		"tags" : [
+			"map",
+			"minimap",
+			"fog",
+			"exploration"
+		]
+	},
+	{
+		"name" : "Market Names",
+		"file" : "marketnames",
+		"extension" : "ipf",
+		"releaseTag" : "corsair",
+		"fileVersion" : "v1.1.0",
+		"unicode" : "⛄",
+		"description" : "Tired of people undercutting you on the market? Find out who they are and challenge them to a duel! Once you see a player in game, it stores their character ID so you can see the seller of an item by hovering the buy button on the market. It is character specific, not account specific.",
+		"tags" : [
+			"market",
+			"seller",
+			"ui"
+		]
+	},
+	{
+		"name" : "Monster Frames",
+		"file" : "monsterframes",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Displays detailed monster information on the monster frames including HP, armor, element, race, size, weakness, and kill count.",
+		"tags" : [
+			"ui",
+			"frames",
+			"monster",
+			"hp",
+			"armor",
+			"element",
+			"attribute",
+			"size",
+			"race",
+			"weakness"
+		]
+	},
+	{
+		"name" : "Monster Tracker",
+		"file" : "monstertracker",
+		"extension" : "ipf",
+		"releaseTag" : "brandish",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Keeps track of the monsters you kill and tells you when you've killed the proper amount.",
+		"tags" : [
+			"ui",
+			"journal",
+			"kill count",
+			"wings of vibora"
+		]
+	},
+	{
+		"name" : "Played",
+		"file" : "played",
+		"extension" : "ipf",
+		"releaseTag" : "gladius",
+		"fileVersion" : "v1.0.1",
+		"unicode" : "⛄",
+		"description" : "Displays time played when you enter /timeplayed.",
+		"tags" : [
+			"played",
+			"time"
+		]
+	},
+	{
+		"name" : "Show HP Bars",
+		"file" : "showhpbars",
+		"extension" : "ipf",
+		"releaseTag" : "ledas",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Created a command to force the HP bars to show. This is useful in places like Earth Tower where you have to protect an object and often times the HP bar doesn't even show up. The command is /!showhpbars. Assign this to a macro slot. You have to use it again whenever you want to see the updated HP bar for now.",
+		"tags" : [
+			"population"
+		]
+	},
+	{
+		"name" : "Show Invested Stat Points",
+		"file" : "showinvestedstatpoints",
+		"extension" : "ipf",
+		"releaseTag" : "otrava",
+		"fileVersion" : "v1.0.1",
+		"unicode" : "⛄",
+		"description" : "Shows the amount of invested stat points you have in each stat at the bottom of the status window.",
+		"tags" : [
+			"ui",
+			"stats"
+		]
+	},
+	{
+		"name" : "Stat Viewer",
+		"file" : "statviewer",
+		"extension" : "ipf",
+		"releaseTag" : "corsair",
+		"fileVersion" : "v1.0.0",
+		"unicode" : "⛄",
+		"description" : "Displays some key stats in a small window that updates on the fly.",
+		"tags" : [
+			"ui",
+			"stats"
+		]
+	}
+]
